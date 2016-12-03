@@ -4,12 +4,12 @@ angular2 sample applications and seeds
 ### Pre-requisites
 
 \# | Type | Name | Version | Download
--- | ---- | ---- | ---     | ------ |
-1  | JS Server | NodeJS | 4.1+ | https://nodejs.org/en/
-2  | JS Build | GulpJS | 4.0+ | http://gulpjs.com/
-3  | JS library | Bower | 1.7+ | https://bower.io/
-4  | TS module | Typescript | 2.0 | https://www.typescriptlang.org/
-5  | Atom | editor | 1.12.6 | https://atom.io/
+---|------|------|---------|------|
+1  | JS Server | NodeJS | 4.1+ | https://nodejs.org/en/ |
+2  | JS Build | GulpJS | 4.0+ | http://gulpjs.com/ |
+3  | JS library | Bower | 1.7+ | https://bower.io/ |
+4  | TS module | Typescript | 2.0 | https://www.typescriptlang.org/ |
+5  | Atom | editor | 1.12.6 | https://atom.io/ |
 
 #### Hello world Sample:
 
