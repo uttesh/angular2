@@ -4,7 +4,7 @@ angular2 sample applications and seeds
 ### Pre-requisites
 
 \# | Type | Name | Version | Download
--- | ---- | ---- | ---     | ------
+-- | ---- | ---- | ---     | ------ |
 1  | JS Server | NodeJS | 4.1+ | https://nodejs.org/en/
 2  | JS Build | GulpJS | 4.0+ | http://gulpjs.com/
 3  | JS library | Bower | 1.7+ | https://bower.io/
